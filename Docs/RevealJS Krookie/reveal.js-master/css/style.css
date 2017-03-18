@@ -1,0 +1,21 @@
+.color-box {
+  background-color: black;
+  display: inline-block;
+  height: 100px;
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  vertical-align: top;
+  width: 100px;
+}
+#bottom_Design {
+line-height: 10vh;
+font-weight: 100;
+font-size: 2rem;
+}
+
+.stickers 
+{
+  max-width: 70%;
+  max-height: 70%;
+}
